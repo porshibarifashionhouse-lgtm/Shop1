@@ -1,0 +1,6 @@
+{
+  "name": "E-commerce Landing Page with Admin",
+  "description": "A single-product e-commerce landing page with a comprehensive admin dashboard to edit product details, manage orders, and handle reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

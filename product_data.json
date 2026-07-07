@@ -1,0 +1,107 @@
+{
+  "product": {
+    "id": "prod-001",
+    "title": "প্রিমিয়াম দুবাই রেমী কটন জুব্বা",
+    "tagline": "অভিজাত ডিজাইন ও শতভাগ আরামদায়ক প্রিমিয়াম জুব্বা কালেকশন",
+    "price": 1850,
+    "originalPrice": 2500,
+    "description": "আমাদের এই প্রিমিয়াম দুবাই রেমী কটন জুব্বাটি অত্যন্ত নিখুঁত সেলাই এবং সর্বোচ্চ গুণগত মানের ফেব্রিক দিয়ে তৈরি। এটি পরিধানে অত্যন্ত আরামদায়ক এবং যেকোনো উৎসব বা ধর্মীয় অনুষ্ঠানে আপনাকে দেবে এক আভিজাত্যপূর্ণ লুক। আধুনিক ফিটিং এবং আকর্ষণীয় কলার ডিজাইনের কারণে এটি তরুণ থেকে প্রবীণ সবার পছন্দের।",
+    "features": [
+      "শতভাগ খাঁটি দুবাই ইম্পোর্টেড রেমী কটন ফেব্রিক",
+      "প্রিমিয়াম ফিনিশিং এবং অত্যন্ত নিখুঁত ডাবল সেলাই",
+      "আকর্ষণীয় এমব্রয়ডারি করা কলার ও পকেট ডিজাইন",
+      "রং ও টেক্সচার দীর্ঘস্থায়ী হওয়ার গ্যারান্টি",
+      "সব আবহাওয়ায় আরামদায়ক ও কুঁচকে না যাওয়ার বিশেষ সুতা"
+    ],
+    "specs": [
+      {
+        "label": "ফেব্রিক (Fabric)",
+        "value": "প্রিমিয়াম ইম্পোর্টেড রেমী কটন (Premium Imported Remy Cotton)"
+      },
+      {
+        "label": "কলার স্টাইল (Collar Style)",
+        "value": "ব্যান্ড কলার উইথ এমব্রয়ডারি (Band Collar with Embroidery)"
+      },
+      {
+        "label": "পকেট (Pocket)",
+        "value": "উভয় পাশে সাইড পকেট ও বুকে হিডেন পকেট (Side pockets on both sides and hidden chest pocket)"
+      },
+      {
+        "label": "সেলাই (Stitching)",
+        "value": "ডাবল লক আন্তর্জাতিক মানের চেইন স্টিচ (Double lock international standard chain stitch)"
+      },
+      {
+        "label": "আসল দেশ (Origin)",
+        "value": "দুবাই ফেব্রিক, বাংলাদেশে তৈরি (Dubai Fabric, Tailored in Bangladesh)"
+      },
+      {
+        "label": "যত্ন (Care)",
+        "value": "হ্যান্ড ওয়াশ অথবা ড্রাই ক্লিন বাঞ্ছনীয় (Hand wash or dry clean recommended)"
+      }
+    ],
+    "images": [
+      "https://i.ibb.co.com/ccsRXJfJ/IMG-20260707-WA0013.jpg",
+      "https://i.ibb.co.com/6K7sRxK/IMG-20260119-WA0003.jpg"
+    ],
+    "stock": 120,
+    "rating": 4.9,
+    "category": "পাঞ্জাবী ও জুব্বা (Jubbah & Punjabi)",
+    "deliveryInfo": "সারাদেশে ক্যাশ অন ডেলিভারি সুবিধা (হোম ডেলিভারি ২-৩ দিন)",
+    "warranty": "৭ দিনের সাইজ পরিবর্তন ও শতভাগ মান গ্যারান্টি (7 Days Replacement Warranty)",
+    "colors": [
+      "সাদা (White)",
+      "নেভি ব্লু (Navy Blue)",
+      "অলিভ গ্রিন (Olive Green)",
+      "কালো (Black)",
+      "মেরুন (Maroon)",
+      "অ্যাশ গ্রে (Ash Grey)"
+    ],
+    "sizes": [
+      "40 (M)",
+      "42 (L)",
+      "44 (XL)",
+      "46 (XXL)"
+    ]
+  },
+  "reviews": [
+    {
+      "id": "rev-1",
+      "userName": "মোহাম্মদ আব্দুল্লাহ",
+      "rating": 5,
+      "comment": "জুব্বাটির কাপড় আসলেই অসাধারণ এবং অনেক আরামদায়ক। সেলাই অনেক ফিনিশিং। ২ দিনের মধ্যে ডেলিভারি পেয়েছি। ধন্যবাদ সেলারকে!",
+      "date": "2026-07-06",
+      "adminReply": "ধন্যবাদ আব্দুল্লাহ সাহেব! আপনার মূল্যবান রিভিউ পেয়ে আমরা আনন্দিত। আমাদের সর্বোচ্চ মানের ফেব্রিক ও সুনিপুণ সেলাই আশাকরি আপনার ভালো অভিজ্ঞতা ধরে রাখবে।"
+    },
+    {
+      "id": "rev-2",
+      "userName": "ইমরান মাহমুদ",
+      "rating": 5,
+      "comment": "আমি ৪২ সাইজের নেভি ব্লু কালার অর্ডার করেছিলাম। একদম পারফেক্ট সাইজ ও কালার ফিট হয়েছে। কাপড়টা খুব প্রিমিয়াম ফিল দেয়।",
+      "date": "2026-07-07"
+    }
+  ],
+  "orders": [],
+  "promoCodes": [
+    {
+      "code": "WELCOME100",
+      "discountType": "fixed",
+      "discountValue": 100,
+      "isActive": true
+    },
+    {
+      "code": "FREE50",
+      "discountType": "fixed",
+      "discountValue": 50,
+      "isActive": true
+    }
+  ],
+  "settings": {
+    "storeName": "Porshi Bari Fashion House",
+    "currency": "BDT",
+    "shippingFee": 60,
+    "bkashNumber": "01825810321",
+    "nagadNumber": "01825810321",
+    "supportEmail": "porshibarifashionhouse@gmail.com",
+    "adminPasscode": "admin123"
+  }
+}
